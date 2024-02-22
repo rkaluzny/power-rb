@@ -5,7 +5,7 @@ for your website with the HTML class top-anim, bottom-anim, left-anim or right-a
 
 For this you need to have imported power-rb. To test it you can integrate it from the cloud, but really only for testing.
 
-<link rel="stylesheet" href="https://power-rb.netlify.app/qrcsscode/style.css">
-<script src="https://power-rb.netlify.app/qrcsscode/script.js" defer></script>
+<link rel="stylesheet" href="https://power-rb.netlify.app/qrcsscode/style.min.css">
+<script src="https://power-rb.netlify.app/qrcsscode/script.min.js" defer></script>
 
 This package is under the MIT license.
