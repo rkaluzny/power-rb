@@ -14,4 +14,10 @@ robin.jerome.kaluzny@gmail.com
 
 Power-RB relies on pure CSS
 
+other links:
+https://power-rb.netlify.app/templates
+https://power-rb.netlify.app/
+https://power-rb.netlify.app/templates/blog
+
+
 This package is under the MIT license.
