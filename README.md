@@ -18,6 +18,10 @@ other links:
 https://power-rb.netlify.app/templates
 https://power-rb.netlify.app/
 https://power-rb.netlify.app/templates/blog
+https://power-rb.netlify.app/classes/grid
+
+Youtube:
+https://www.youtube.com/@power-rb
 
 
 This package is under the MIT license.
