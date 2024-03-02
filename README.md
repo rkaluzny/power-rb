@@ -19,6 +19,7 @@ https://power-rb.netlify.app/templates
 https://power-rb.netlify.app/
 https://power-rb.netlify.app/templates/blog
 https://power-rb.netlify.app/classes/grid
+https://power-rb.netlify.app/classes/navbar
 
 Youtube:
 https://www.youtube.com/@power-rb
